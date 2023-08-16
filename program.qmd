@@ -1,0 +1,51 @@
+---
+title: Program
+---
+
+## Course requirements
+
+No prior knowledge of social network analysis is assumed for this
+course. However, it would be useful to read *Doing social network
+research* (Robins, 2015). SAGE Publications Ltd.* *
+
+## Who is this course for?
+
+Postgraduate research students, postdocs and academics wishing to use
+Social Networks in their research.
+
+## Recommended reading
+
+Borgatti, S. P., Everett, M. G., Johnson, J. C. & Agneessens, F. (2022).
+*Analyzing social networks using R*. Sage.
+
+Luke, D. A. (2015). *A user\'s guide to network analysis in R*. Cham:
+Springer.
+
+Scott, J. (2000). *Social Network Analysis: A Handbook*. Sage.
+
+## Language
+
+Summer school courses will be taught in English unless all the
+participants are proficient in Spanish.
+
+## Course leaders:
+
+Dr Alejandro Espinosa-Rada (Social Networks Lab., ETH Zürich)
+
+Dr Diego Palacios (Society and Health Research Center, Universidad
+Mayor)
+
+Dr Francisca Ortiz Ruiz (Millennium Institute for Care Research -
+MICARE)
+
+Dr George Vega Yon (The University of Utah)
+
+## Preliminary Program
+
+```{r}
+#| label: program
+#| echo: false
+knitr::kable(read.csv("program.csv"))
+```
+
+*\*Summer school registration will be at 8.30*

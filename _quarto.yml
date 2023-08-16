@@ -1,0 +1,30 @@
+project:
+  type: website
+  render: 
+    - "*qmd"
+    - "!misc"
+  output-dir: "docs"
+
+website:
+  title: "ChiSocNet Summer School -- 2023"
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: program.qmd
+        text: Program
+      - href: keynotes.qmd
+        text: Keynotes
+    right:
+      - href: about.qmd
+        text: ChiSocNet
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
