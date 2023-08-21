@@ -50,11 +50,9 @@ Vicuña Mackenna 4860, Macul, Santiago
 
 ## Contact
 
-Alejandro Espinosa-Rada
-
-Social Networks Lab, ETH Zürich
-
-[[alejandro.espinosa@gess.ethz.ch]{.underline}](mailto:alejandro.espinosa@gess.ethz.ch)
+Alejandro Espinosa-Rada<br>
+Social Networks Lab, ETH Zürich<br>
+[[chisocnet@gmail.com]{.underline}](mailto:chisocnet@gmail.com)
 
 ## Sponsors
 
