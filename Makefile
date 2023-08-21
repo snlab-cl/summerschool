@@ -11,6 +11,6 @@ docker-run:
 	docker run -v $(shell pwd):/home/ -it gvegayon/chisocnet-ss:latest bash
 
 docker-render:
-	docker run -v $(shell pwd):/home/ -w /home/ -it gvegayon/chisocnet-ss:latest make all
+	docker run -v $(shell pwd):/home/ -w /home/ --rm gvegayon/chisocnet-ss:latest make all
 
 .PHONY: all docker-build docker-push
