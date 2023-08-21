@@ -8,17 +8,19 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Load R
-        uses: r-lib/actions/setup-r@v2
+      - name: Getting the container
+        run: |
+          docker pull gvegayon/chisocnet-ss:latest
 
-      - name: Install rmarkdown
-        run: Rscript -e 'install.packages("rmarkdown")'
+      - name: Running the container
+        run: |
+          make docker-render
 
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-
-      - name: Render website
-        uses: quarto-dev/quarto-actions/render@v2
+      - name: Adding new files to git
+        run: |
+          git add .
+          git commit -m "Updating the website" && \
+            git push
         
 
 

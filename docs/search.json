@@ -1,10 +1,52 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About – The Chilean Society for Social Network Science (ChiSocNet)",
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Program",
     "section": "",
-    "text": "The Chilean Society for Social Network Science aims to develop the Social Network Science in Chile (CHISOCNET) to be in the next decade an international group of reference from Ibero-America and the International Community of the Social Network Science.\nTo achieve this objective, CHISOCNET will congregate, broadcast, and support the researchers actively working in Social Network Science within Chile, Ibero-America and abroad."
+    "text": "No prior knowledge of social network analysis is assumed for this course. However, it would be useful to read Doing social network research (Robins, 2015). SAGE Publications Ltd."
+  },
+  {
+    "objectID": "program.html#course-requirements",
+    "href": "program.html#course-requirements",
+    "title": "Program",
+    "section": "",
+    "text": "No prior knowledge of social network analysis is assumed for this course. However, it would be useful to read Doing social network research (Robins, 2015). SAGE Publications Ltd."
+  },
+  {
+    "objectID": "program.html#who-is-this-course-for",
+    "href": "program.html#who-is-this-course-for",
+    "title": "Program",
+    "section": "Who is this course for?",
+    "text": "Who is this course for?\nPostgraduate research students, postdocs and academics wishing to use Social Networks in their research."
+  },
+  {
+    "objectID": "program.html#recommended-reading",
+    "href": "program.html#recommended-reading",
+    "title": "Program",
+    "section": "Recommended reading",
+    "text": "Recommended reading\nBorgatti, S. P., Everett, M. G., Johnson, J. C. & Agneessens, F. (2022). Analyzing social networks using R. Sage.\nLuke, D. A. (2015). A user's guide to network analysis in R. Cham: Springer.\nScott, J. (2000). Social Network Analysis: A Handbook. Sage."
+  },
+  {
+    "objectID": "program.html#language",
+    "href": "program.html#language",
+    "title": "Program",
+    "section": "Language",
+    "text": "Language\nSummer school courses will be taught in English unless all the participants are proficient in Spanish."
+  },
+  {
+    "objectID": "program.html#course-leaders",
+    "href": "program.html#course-leaders",
+    "title": "Program",
+    "section": "Course leaders:",
+    "text": "Course leaders:\nDr Alejandro Espinosa-Rada (Social Networks Lab., ETH Zürich)\nDr Diego Palacios (Society and Health Research Center, Universidad Mayor)\nDr Francisca Ortiz Ruiz (Millennium Institute for Care Research - MICARE)\nDr George Vega Yon (The University of Utah)"
+  },
+  {
+    "objectID": "program.html#preliminary-program",
+    "href": "program.html#preliminary-program",
+    "title": "Program",
+    "section": "Preliminary Program",
+    "text": "Preliminary Program\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nMonday 8*\nTuesday 9\nWednesday 10\nThursday 11\nFriday 12\n\n\n\n\n9.00-10.15\nIntro to Social Networks\nNetwork Visualizations\nData gathering in the era of Computational Social Science\nTesting hypothesis\nIntro to RSiena\n\n\n10.15-10.30\nBreak\nBreak\nBreak\nBreak\nBreak\n\n\n10.30-11.45\nIntro to R\nMultivariate techniques and whole networks\nEgo-networks\nIntro to ERGMs\nGroup work\n\n\n11.45-12.00\nBreak\nBreak\nBreak\nBreak\nBreak\n\n\n12.00-13.30\nRené Veenstra\nGroup Work\nSilvia Dominguez\nGroup Work\nKeynote speaker 3\n\n\n13.30-14.30\nLunch\nLunch\nLunch\nLunch\nLunch\n\n\n14.30-13.45\nResearch Design\nCentrality\nPersonal Networks\nERGMs advances topics\nNew topic in Network Modeling\n\n\n13.45-16.00\nBreak\nBreak\nBreak\nBreak\nBreak\n\n\n16.00-17.15\nGroup Work\nSubgroups and two-mode networks\nMixed Methods\nIntro to RSiena\nPresentation participants\n\n\n17.30- 19.00\nDinner\n-\nSocial gathering\n-\nSocial gathering\n\n\n\n\n\n*Summer school registration will be at 8.30"
   },
   {
     "objectID": "index.html",
@@ -56,59 +98,17 @@
     "text": "Sponsors\n\nFONDECYT program N°11230902. Title of the project: “It takes two for &gt; substance use: Peer mechanisms in adolescents’ substance use”\nFONDECYT program N°230437. Title of the project: “Redes personales y &gt; capital social de mujeres cuidadoras. Midiendo sus cambios en el &gt; tiempo e impacto en bienestar y salud”.\nFONDECYT program N°1220560. Title of the project: “Social Networks &gt; and Socio-ecological Sustainability Project”\nInstitute of Sociology, Pontifical Catholic University of Chile."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About – The Chilean Society for Social Network Science (ChiSocNet)",
+    "section": "",
+    "text": "The Chilean Society for Social Network Science aims to develop the Social Network Science in Chile (CHISOCNET) to be in the next decade an international group of reference from Ibero-America and the International Community of the Social Network Science.\nTo achieve this objective, CHISOCNET will congregate, broadcast, and support the researchers actively working in Social Network Science within Chile, Ibero-America and abroad."
+  },
+  {
     "objectID": "keynotes.html",
     "href": "keynotes.html",
     "title": "Keynote speakers",
     "section": "",
     "text": "Prof. Silvia Dominguez\nDr. Silvia Dominguez is an Associate Professor of Sociology at Northeastern University. She has specialised in the welfare of vulnerable populations in the United States and abroad, emphasising race, violence, immigration and social networks. She is also a faculty fellow at the Women’s, Gender, and Sexuality Studies Program and the Brudnick Center for the Study of Conflict and Violence. She also co-edited a book with Bettina Holstein, Mixed Methods with Social Networks, that came out with Cambridge University Press in 2013.\nVisit sponsored by “Redes personales y capital social de mujeres cuidadoras. Midiendo sus cambios en el tiempo e impacto en bienestar y salud”. Project funded by FONDECYT program N°230437.\n\n\nProf. René Veenstra\nDr René Veenstra is a Professor at the Department of Sociology, University of Groningen, and board member of the Interuniversity Center for Social Science Theory and Methodology (ICS), the Netherlands, and a member of the management team of TRAILS and SNARE projects. During 2011-2014, he coordinated the implementation and evaluation of the KiVa Antibullying Program in the Netherlands. He published on various topics (bullying and victimisation, peer relations, prosocial and antisocial behaviour, social network analysis, and temperament-by-environment interactions) in major scientific journals, including Child Development, Developmental Psychology, Journal of Early Adolescence, and Journal of Research on Adolescence.\nVisit sponsored by “It takes two for substance use: Peer mechanisms in adolescents’ substance use”. Project funded by FONDECYT program N°11230902.\n\n\nKeynote speaker 3 (TBC)"
-  },
-  {
-    "objectID": "program.html",
-    "href": "program.html",
-    "title": "Program",
-    "section": "",
-    "text": "No prior knowledge of social network analysis is assumed for this course. However, it would be useful to read Doing social network research (Robins, 2015). SAGE Publications Ltd."
-  },
-  {
-    "objectID": "program.html#course-requirements",
-    "href": "program.html#course-requirements",
-    "title": "Program",
-    "section": "",
-    "text": "No prior knowledge of social network analysis is assumed for this course. However, it would be useful to read Doing social network research (Robins, 2015). SAGE Publications Ltd."
-  },
-  {
-    "objectID": "program.html#who-is-this-course-for",
-    "href": "program.html#who-is-this-course-for",
-    "title": "Program",
-    "section": "Who is this course for?",
-    "text": "Who is this course for?\nPostgraduate research students, postdocs and academics wishing to use Social Networks in their research."
-  },
-  {
-    "objectID": "program.html#recommended-reading",
-    "href": "program.html#recommended-reading",
-    "title": "Program",
-    "section": "Recommended reading",
-    "text": "Recommended reading\nBorgatti, S. P., Everett, M. G., Johnson, J. C. & Agneessens, F. (2022). Analyzing social networks using R. Sage.\nLuke, D. A. (2015). A user's guide to network analysis in R. Cham: Springer.\nScott, J. (2000). Social Network Analysis: A Handbook. Sage."
-  },
-  {
-    "objectID": "program.html#language",
-    "href": "program.html#language",
-    "title": "Program",
-    "section": "Language",
-    "text": "Language\nSummer school courses will be taught in English unless all the participants are proficient in Spanish."
-  },
-  {
-    "objectID": "program.html#course-leaders",
-    "href": "program.html#course-leaders",
-    "title": "Program",
-    "section": "Course leaders:",
-    "text": "Course leaders:\nDr Alejandro Espinosa-Rada (Social Networks Lab., ETH Zürich)\nDr Diego Palacios (Society and Health Research Center, Universidad Mayor)\nDr Francisca Ortiz Ruiz (Millennium Institute for Care Research - MICARE)\nDr George Vega Yon (The University of Utah)"
-  },
-  {
-    "objectID": "program.html#preliminary-program",
-    "href": "program.html#preliminary-program",
-    "title": "Program",
-    "section": "Preliminary Program",
-    "text": "Preliminary Program\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nMonday 8*\nTuesday 9\nWednesday 10\nThursday 11\nFriday 12\n\n\n\n\n9.00-10.15\nIntro to Social Networks\nNetwork Visualizations\nData gathering in the era of Computational Social Science\nTesting hypothesis\nIntro to RSiena\n\n\n10.15-10.30\nBreak\nBreak\nBreak\nBreak\nBreak\n\n\n10.30-11.45\nIntro to R\nMultivariate techniques and whole networks\nEgo-networks\nIntro to ERGMs\nGroup work\n\n\n11.45-12.00\nBreak\nBreak\nBreak\nBreak\nBreak\n\n\n12.00-13.30\nRené Veenstra\nGroup Work\nSilvia Dominguez\nGroup Work\nKeynote speaker 3\n\n\n13.30-14.30\nLunch\nLunch\nLunch\nLunch\nLunch\n\n\n14.30-13.45\nResearch Design\nCentrality\nPersonal Networks\nERGMs advances topics\nNew topic in Network Modeling\n\n\n13.45-16.00\nBreak\nBreak\nBreak\nBreak\nBreak\n\n\n16.00-17.15\nGroup Work\nSubgroups and two-mode networks\nMixed Methods\nIntro to RSiena\nPresentation participants\n\n\n17.30- 19.00\nDinner\n-\nSocial gathering\n-\nSocial gathering\n\n\n\n\n\n*Summer school registration will be at 8.30"
   }
 ]
