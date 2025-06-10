@@ -10,5 +10,17 @@
   },
   "program.qmd": {
     "program.html": "cd62ce27"
+  },
+  "2024/about.qmd": {
+    "about.html": "fe890d5a"
+  },
+  "2024/index.qmd": {
+    "index.html": "f8c059cf"
+  },
+  "2024/keynotes.qmd": {
+    "keynotes.html": "c9f94cc5"
+  },
+  "2024/program.qmd": {
+    "program.html": "7d885fb6"
   }
 }

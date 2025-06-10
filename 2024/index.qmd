@@ -1,0 +1,78 @@
+---
+title: 1st Chilean Summer School about Social Network Research -- January 2024
+subtitle: '*The Chilean Society for Social Network Science (ChiSocNet)*'
+format: html
+---
+
+![Picture by Joaquin Bruna ([Wikimedia commons](https://commons.wikimedia.org/wiki/File:Santiago_de_Chile_%28winter%29.jpg))](../figures/santiago-winter-wikimedia.jpg)
+
+## Course objectives
+
+By the end of the week, participants would be able to design social
+network research, collect network data from classical to digital
+information, describe and visualise networks, and perform statistical
+models using social networks (e.g., ERGM and RSIENA). They will also
+have an overview of the most relevant topics about social networks.
+During the week, participants would have lectures and practical
+experience in using the R software and engage in practical experience
+through group projects.
+
+The course will:
+
+-   Introduce the idea of social network research.
+
+-   Explain how to collect, describe and visualise networks.
+
+-   Explain how to model social networks.
+
+-   Provide hands-on training to use R to investigate social networks.
+
+
+## Timeline
+
+~~2nd October 2023: Deadline submission applications~~
+
+~~20th October 2023: New Deadline submission applications~~
+
+~~6th November 2023: Notifications~~
+
+13th November - 4th December 2023: Registration
+
+**8-12 January 2024: Summer School**
+
+## Participation fee
+
+Flatrate of CLP 150,000 p.p. (approx. 190 US Dollars)
+
+## Application
+
+To apply, please send a motivation letter (stating your research background, research interests, and reasons to learn about network methods) and a short CV to [[chisocnet@gmail.com]{.underline}](mailto:chisocnet@gmail.com) (by 2nd October 2023).
+
+## Location
+
+Institute of Sociology, Pontifical Catholic University of Chile. Avenida
+Vicuña Mackenna 4860, Macul, Santiago
+
+## Contact
+
+Alejandro Espinosa-Rada<br>
+Social Networks Lab, ETH Zürich<br>
+[[chisocnet@gmail.com]{.underline}](mailto:chisocnet@gmail.com)
+
+## Organisers
+
+-   FONDECYT program N°11230902. Title of the project: "It takes two for
+    > substance use: Peer mechanisms in adolescents' substance use"
+
+-   FONDECYT program N°230437. Title of the project: "Redes personales y
+    > capital social de mujeres cuidadoras. Midiendo sus cambios en el
+    > tiempo e impacto en bienestar y salud".
+
+-   FONDECYT program N°1220560. Title of the project: "Social Networks
+    > and Socio-ecological Sustainability Project"
+
+
+## Sponsors
+
+-   Institute of Sociology, Pontifical Catholic University of Chile.
+

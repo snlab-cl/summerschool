@@ -1,0 +1,48 @@
+---
+title: Keynote speakers
+---
+
+::: {.callout-note}
+This program corresponds to the 2024 Summer School.
+:::
+
+### Prof. Silvia Dominguez
+
+Dr. Silvia Dominguez is an Associate Professor of Sociology at
+Northeastern University. She has specialised in the welfare of
+vulnerable populations in the United States and abroad, emphasising
+race, violence, immigration and social networks. She is also a faculty
+fellow at the Women's, Gender, and Sexuality Studies Program and the
+Brudnick Center for the Study of Conflict and Violence. **She also
+co-edited a book with Bettina Holstein, *Mixed Methods with Social
+Networks*, that came out with Cambridge University Press in
+2013.**
+
+*Visit sponsored by "Redes personales y capital social de mujeres
+cuidadoras. Midiendo sus cambios en el tiempo e impacto en bienestar y
+salud". Project funded by FONDECYT program N°230437.*
+
+### Prof. René Veenstra
+
+Dr René Veenstra is a Professor at the Department of Sociology,
+University of Groningen, and board member of the Interuniversity Center
+for Social Science Theory and Methodology (ICS), the Netherlands, and a
+member of the management team of TRAILS and SNARE projects. During
+2011-2014, he coordinated the implementation and evaluation of the KiVa
+Antibullying Program in the Netherlands. He published on various topics
+(bullying and victimisation, peer relations, prosocial and antisocial
+behaviour, social network analysis, and temperament-by-environment
+interactions) in major scientific journals, including Child Development,
+Developmental Psychology, Journal of Early Adolescence, and Journal of
+Research on Adolescence.
+
+*Visit sponsored by "It takes two for substance use: Peer mechanisms in
+adolescents' substance use". Project funded by FONDECYT program
+N°11230902.*
+
+### Prof. Johan Koskinen
+
+Dr Johan Koskinen is a lecturer in statistics at Stockholm University. He has previously worked at the University of Melbourne, Oxford, Manchester, Linkoping, and the Alan Turing Institute. A statistician by training, he has primarily made methodological contributions to the analysis of cross-sectional and dynamic network data and has been published in Annals of Applied Statistics, Psychometrika, and the Journal of Statistical Planning and Inference, among others. He has also facilitated methodologically innovative research with a substantive focus that has been published in journals such as Quantitate Criminology, European Sociological Review, and Social Networks. Dr Koskinen has been active in disseminating current best methods through frequent training and books such as the award-winning book on exponential random graph models.
+
+*Visit sponsored by "Social Networks and Socio-ecological Sustainability Project". Project funded by FONDECYT program
+N°1220560.*
