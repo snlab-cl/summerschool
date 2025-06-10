@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Program",
+    "section": "",
+    "text": "TBD"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "2nd Chilean Summer School about Social Network Research – January 2026",
@@ -14,53 +21,11 @@
     "text": "Course objectives\nBy the end of the week, participants would be able to design social network research, collect network data from classical to digital information, describe and visualise networks, and perform statistical models using social networks (e.g., ERGM and RSIENA). They will also have an overview of the most relevant topics about social networks. During the week, participants would have lectures and practical experience in using the R software and engage in practical experience through group projects.\nThe course will:\n\nIntroduce the idea of social network research.\nExplain how to collect, describe and visualise networks.\nExplain how to model social networks.\nProvide hands-on training to use R to investigate social networks.\n\nMore details soon!"
   },
   {
-    "objectID": "index.html#timeline",
-    "href": "index.html#timeline",
-    "title": "1st Chilean Summer School about Social Network Research – January 2024",
-    "section": "Timeline",
-    "text": "Timeline\n2nd October 2023: Deadline submission applications\n20th October 2023: New Deadline submission applications\n6th November 2023: Notifications\n13th November - 4th December 2023: Registration\n8-12 January 2024: Summer School"
-  },
-  {
-    "objectID": "index.html#participation-fee",
-    "href": "index.html#participation-fee",
-    "title": "1st Chilean Summer School about Social Network Research – January 2024",
-    "section": "Participation fee",
-    "text": "Participation fee\nFlatrate of CLP 150,000 p.p. (approx. 190 US Dollars)"
-  },
-  {
-    "objectID": "index.html#application",
-    "href": "index.html#application",
-    "title": "1st Chilean Summer School about Social Network Research – January 2024",
-    "section": "Application",
-    "text": "Application\nTo apply, please send a motivation letter (stating your research background, research interests, and reasons to learn about network methods) and a short CV to chisocnet@gmail.com (by 2nd October 2023)."
-  },
-  {
-    "objectID": "index.html#location",
-    "href": "index.html#location",
-    "title": "1st Chilean Summer School about Social Network Research – January 2024",
-    "section": "Location",
-    "text": "Location\nInstitute of Sociology, Pontifical Catholic University of Chile. Avenida Vicuña Mackenna 4860, Macul, Santiago"
-  },
-  {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "2nd Chilean Summer School about Social Network Research – January 2026",
     "section": "Contact",
     "text": "Contact\nAlejandro Espinosa-Rada Social Networks Lab, ETH Zürich chisocnet@gmail.com"
-  },
-  {
-    "objectID": "index.html#organisers",
-    "href": "index.html#organisers",
-    "title": "2nd Chilean Summer School about Social Network Research – January 2026",
-    "section": "Organisers",
-    "text": "Organisers\n\nFONDECYT program N°11230902. Title of the project: “It takes two for &gt; substance use: Peer mechanisms in adolescents’ substance use”\nFONDECYT program N°230437. Title of the project: “Redes personales y &gt; capital social de mujeres cuidadoras. Midiendo sus cambios en el &gt; tiempo e impacto en bienestar y salud”.\nFONDECYT program N°1220560. Title of the project: “Social Networks &gt; and Socio-ecological Sustainability Project”"
-  },
-  {
-    "objectID": "index.html#sponsors",
-    "href": "index.html#sponsors",
-    "title": "2nd Chilean Summer School about Social Network Research – January 2026",
-    "section": "Sponsors",
-    "text": "Sponsors\n\nInstitute of Sociology, Pontifical Catholic University of Chile."
   },
   {
     "objectID": "2024/program.html",
@@ -187,13 +152,6 @@
     "title": "About – The Chilean Society for Social Network Science (ChiSocNet)",
     "section": "",
     "text": "The Chilean Society for Social Network Science aims to develop the Social Network Science in Chile (CHISOCNET) to be in the next decade an international group of reference from Ibero-America and the International Community of the Social Network Science.\nTo achieve this objective, CHISOCNET will congregate, broadcast, and support the researchers actively working in Social Network Science within Chile, Ibero-America and abroad."
-  },
-  {
-    "objectID": "program.html",
-    "href": "program.html",
-    "title": "Program",
-    "section": "",
-    "text": "TBD"
   },
   {
     "objectID": "keynotes.html",
