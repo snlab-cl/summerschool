@@ -27,10 +27,31 @@ The course will:
 
 -   Provide hands-on training to use R to investigate social networks.
 
-More details soon!
+## Timeline
+
+5th October 2025: Deadline submission applications
+
+10th November 2025: Notifications
+
+8th December - 19th December 2025: Registration
+
+**12-16 January 2024: Summer School**
+
+## Participation fee
+
+Flatrate of CLP 250,000 p.p. (approx. 260 US Dollars)
+
+## Application
+
+To apply, please send a motivation letter (stating your research background, research interests, and reasons to learn about network methods) and a short CV to [[chisocnet@gmail.com]{.underline}](mailto:chisocnet@gmail.com) (by 5th October 2025).
+
+## Location
+
+Institute of Sociology, Pontifical Catholic University of Chile. Avenida
+Vicuña Mackenna 4860, Macul, Santiago
 
 ## Contact
 
 Alejandro Espinosa-Rada<br>
-Social Networks Lab, ETH Zürich<br>
+Institute of Sociology, Pontifical Catholic University of Chile<br>
 [[chisocnet@gmail.com]{.underline}](mailto:chisocnet@gmail.com)
