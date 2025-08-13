@@ -2,6 +2,14 @@
 title: Keynote speakers
 ---
 
-Dr Pavel Krivitsky is a Senior Lecturer in Statistics at the University of New South Wales, Sydeny, Australia. Previously, he was a lecturer in Statistics at the School of Mathematics and Applied Statistics and National Institute for Applied Statistics Research Australia (NIASRA), a Research Associate at Pennsylvania State University, and a Visiting Research Associate at the Carnegie Mellon University Heinz College. His research interests include statistical modeling of social network data and processes for applications in epidemiology, social sciences, and defense, statistical software and computing, and survey sampling. He is particularly interested in unusual or indirectly observed or sampled network data. His work has a strong computational component, and he develop and maintain a number of popular R packages on CRAN such as ergm, letentnet, ergm.multi, among others.
+<h2>"**Prof Pavel Krivitsky**"</h2>
+_is a Senior Lecturer in Statistics at the University of New South Wales, Sydeny, Australia._ 
 
-Esteban Moro is a professor in the Network Science Institute at Northeastern University and the director of the Social Urban Networks (SUNLab) group. Previously, he was an associate professor at Universidad Carlos III (UC3M) in Spain, Researcher and Visiting Professor at MIT Media Lab and Researcher at University of Oxford. A native from Salamanca (Spain) he holds a PhD in Physics and he is an affiliate researcher at the MIT Media Lab. He has published extensively throughout his career and have led many projects funded by government agencies and private companies. Also served as jury in many Data Science and Big Data challenges, as editor of several journals and has advised many PhD students.
+Previously, he was a lecturer in Statistics at the School of Mathematics and Applied Statistics and National Institute for Applied Statistics Research Australia (NIASRA), a Research Associate at Pennsylvania State University, and a Visiting Research Associate at the Carnegie Mellon University Heinz College. His research interests include statistical modeling of social network data and processes for applications in epidemiology, social sciences, and defense, statistical software and computing, and survey sampling. He is particularly interested in unusual or indirectly observed or sampled network data. His work has a strong computational component, and he develop and maintain a number of popular R packages on CRAN such as ergm, letentnet, ergm.multi, among others.
+
+
+
+<h2>"**Prof Esteban Moro**"</h2>
+_is a professor in the Network Science Institute at Northeastern University and the director of the Social Urban Networks (SUNLab) group._ 
+
+Previously, he was an associate professor at Universidad Carlos III (UC3M) in Spain, Researcher and Visiting Professor at MIT Media Lab and Researcher at University of Oxford. A native from Salamanca (Spain) he holds a PhD in Physics and he is an affiliate researcher at the MIT Media Lab. He has published extensively throughout his career and have led many projects funded by government agencies and private companies. Also served as jury in many Data Science and Big Data challenges, as editor of several journals and has advised many PhD students.

@@ -60,14 +60,14 @@
     "href": "index.html#course-objectives",
     "title": "2nd Chilean Summer School about Social Network Research – January 2026",
     "section": "Course objectives",
-    "text": "Course objectives\nBy the end of the week, participants would be able to design social network research, collect network data from classical to digital information, describe and visualise networks, and perform statistical models using social networks (e.g., ERGM and RSIENA). They will also have an overview of the most relevant topics about social networks. During the week, participants would have lectures and practical experience in using the R software and engage in practical experience through group projects.\nThe course will:\n\nIntroduce the idea of social network research.\nExplain how to collect, describe and visualise networks.\nExplain how to model social networks.\nProvide hands-on training to use R to investigate social networks.\n\nMore details soon!"
+    "text": "Course objectives\nBy the end of the week, participants would be able to design social network research, collect network data from classical to digital information, describe and visualise networks, and perform statistical models using social networks (e.g., ERGM and RSIENA). They will also have an overview of the most relevant topics about social networks. During the week, participants would have lectures and practical experience in using the R software and engage in practical experience through group projects.\nThe course will:\n\nIntroduce the idea of social network research.\nExplain how to collect, describe and visualise networks.\nExplain how to model social networks.\nProvide hands-on training to use R to investigate social networks."
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "2nd Chilean Summer School about Social Network Research – January 2026",
     "section": "Contact",
-    "text": "Contact\nAlejandro Espinosa-Rada Social Networks Lab, ETH Zürich chisocnet@gmail.com"
+    "text": "Contact\nAlejandro Espinosa-Rada Institute of Sociology, Pontifical Catholic University of Chile chisocnet@gmail.com"
   },
   {
     "objectID": "2024/program.html",
@@ -200,6 +200,34 @@
     "href": "keynotes.html",
     "title": "Keynote speakers",
     "section": "",
-    "text": "TBD"
+    "text": "“Prof Pavel Krivitsky”\n\nis a Senior Lecturer in Statistics at the University of New South Wales, Sydeny, Australia.\nPreviously, he was a lecturer in Statistics at the School of Mathematics and Applied Statistics and National Institute for Applied Statistics Research Australia (NIASRA), a Research Associate at Pennsylvania State University, and a Visiting Research Associate at the Carnegie Mellon University Heinz College. His research interests include statistical modeling of social network data and processes for applications in epidemiology, social sciences, and defense, statistical software and computing, and survey sampling. He is particularly interested in unusual or indirectly observed or sampled network data. His work has a strong computational component, and he develop and maintain a number of popular R packages on CRAN such as ergm, letentnet, ergm.multi, among others.\n\n“Prof Esteban Moro”\n\nis a professor in the Network Science Institute at Northeastern University and the director of the Social Urban Networks (SUNLab) group.\nPreviously, he was an associate professor at Universidad Carlos III (UC3M) in Spain, Researcher and Visiting Professor at MIT Media Lab and Researcher at University of Oxford. A native from Salamanca (Spain) he holds a PhD in Physics and he is an affiliate researcher at the MIT Media Lab. He has published extensively throughout his career and have led many projects funded by government agencies and private companies. Also served as jury in many Data Science and Big Data challenges, as editor of several journals and has advised many PhD students."
+  },
+  {
+    "objectID": "index.html#timeline",
+    "href": "index.html#timeline",
+    "title": "2nd Chilean Summer School about Social Network Research – January 2026",
+    "section": "Timeline",
+    "text": "Timeline\n5th October 2025: Deadline submission applications\n10th November 2025: Notifications\n8th December - 19th December 2025: Registration\n12-16 January 2024: Summer School"
+  },
+  {
+    "objectID": "index.html#participation-fee",
+    "href": "index.html#participation-fee",
+    "title": "2nd Chilean Summer School about Social Network Research – January 2026",
+    "section": "Participation fee",
+    "text": "Participation fee\nFlatrate of CLP 250,000 p.p. (approx. 260 US Dollars)"
+  },
+  {
+    "objectID": "index.html#application",
+    "href": "index.html#application",
+    "title": "2nd Chilean Summer School about Social Network Research – January 2026",
+    "section": "Application",
+    "text": "Application\nTo apply, please send a motivation letter (stating your research background, research interests, and reasons to learn about network methods) and a short CV to chisocnet@gmail.com (by 5th October 2025)."
+  },
+  {
+    "objectID": "index.html#location",
+    "href": "index.html#location",
+    "title": "2nd Chilean Summer School about Social Network Research – January 2026",
+    "section": "Location",
+    "text": "Location\nInstitute of Sociology, Pontifical Catholic University of Chile. Avenida Vicuña Mackenna 4860, Macul, Santiago"
   }
 ]
