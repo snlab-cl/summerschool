@@ -1,15 +1,36 @@
 ---
-title: Keynote speakers
+title: "Keynote Speakers"
+output:
+  html_document:
+    self_contained: true
 ---
+<style> .keynote-card { display: flex; flex-direction: row; align-items: flex-start; background: #f9f9f9; border-radius: 12px; padding: 1.5em; margin-bottom: 2em; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: transform 0.2s, box-shadow 0.2s; } 
 
-<h2>"**Prof Pavel Krivitsky**"</h2>
-_is a Senior Lecturer in Statistics at the University of New South Wales, Sydeny, Australia._ 
+.keynote-card:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,0.15); } 
 
-Previously, he was a lecturer in Statistics at the School of Mathematics and Applied Statistics and National Institute for Applied Statistics Research Australia (NIASRA), a Research Associate at Pennsylvania State University, and a Visiting Research Associate at the Carnegie Mellon University Heinz College. His research interests include statistical modeling of social network data and processes for applications in epidemiology, social sciences, and defense, statistical software and computing, and survey sampling. He is particularly interested in unusual or indirectly observed or sampled network data. His work has a strong computational component, and he develop and maintain a number of popular R packages on CRAN such as ergm, letentnet, ergm.multi, among others.
+.keynote-image { flex: 0 0 140px; margin-right: 1.5em; } 
+
+.keynote-image img { width: 140px; height: 140px; object-fit: cover; border-radius: 50%; border: 3px solid #ddd; } 
+
+.keynote-content { flex: 1; font-family: "Helvetica, Arial, sans-serif"; } 
+
+.keynote-title { font-size: 1.5em; font-weight: bold; margin-bottom: 0.3em; } 
+
+.keynote-position { font-style: italic; color: #555; margin-bottom: 1em; } 
+
+.keynote-content p { margin-bottom: 0.7em; line-height: 1.5; } @media screen and (max-width: 700px) { .keynote-card { flex-direction: column; align-items: center; text-align: center; } .keynote-image { margin-right: 0; margin-bottom: 1em; } } 
+
+</style> <div class="keynote-card"> <div class="keynote-image"> <img src="img/pavel.jpg" /> </div> <div class="keynote-content"> <div class="keynote-title">Prof. Pavel Krivitsky</div> <div class="keynote-position">Senior Lecturer in Statistics, University of New South Wales, Sydney, Australia</div> 
+
+<p>Prof. Krivitsky is a Senior Lecturer in Statistics at the University of New South Wales, Sydney. Previously, he served as a Lecturer in Statistics at the School of Mathematics and Applied Statistics and the National Institute for Applied Statistics Research Australia (NIASRA), a Research Associate at Pennsylvania State University, and a Visiting Research Associate at the Carnegie Mellon University Heinz College.</p> <p>His research focuses on statistical modeling of social network data and processes, with applications in epidemiology, the social sciences, and defense. He is particularly interested in analyzing networks that are unusual, indirectly observed, or sampled in complex ways. With a strong emphasis on computation, Prof. Krivitsky develops and maintains several widely used R packages on CRAN, including <strong>ergm</strong>, <strong>latentnet</strong>, and <strong>ergm.multi</strong>.</p> </div> </div> 
+
+<div class="keynote-card"> <div class="keynote-image"> <img src="img/esteban.jpg" /> </div> <div class="keynote-content"> <div class="keynote-title">Prof. Esteban Moro</div> <div class="keynote-position">Professor, Network Science Institute, Northeastern University; Director, Social Urban Networks (SUNLab) Group</div> 
+
+<p>Prof. Moro is a Professor at the Network Science Institute at Northeastern University and Director of the Social Urban Networks (SUNLab) research group. Previously, he was an Associate Professor at Universidad Carlos III de Madrid (UC3M), a Researcher and Visiting Professor at the MIT Media Lab, and a Researcher at the University of Oxford.</p> <p>A native of Salamanca, Spain, he holds a PhD in Physics and is also an Affiliate Researcher at the MIT Media Lab. Prof. Moro has published extensively, led numerous projects funded by government agencies and private companies, and served as a jury member for major Data Science and Big Data competitions. He has also been an editor for several journals and has supervised many PhD students.</p> </div> </div>
 
 
+<div class="keynote-card"> <div class="keynote-image"> <img src="img/blank.jpg" /> </div> <div class="keynote-content"> <div class="keynote-title">Keynote Speaker TBC</div><div class="keynote-position">To Be Confirmed</div>
 
-<h2>"**Prof Esteban Moro**"</h2>
-_is a professor in the Network Science Institute at Northeastern University and the director of the Social Urban Networks (SUNLab) group._ 
-
-Previously, he was an associate professor at Universidad Carlos III (UC3M) in Spain, Researcher and Visiting Professor at MIT Media Lab and Researcher at University of Oxford. A native from Salamanca (Spain) he holds a PhD in Physics and he is an affiliate researcher at the MIT Media Lab. He has published extensively throughout his career and have led many projects funded by government agencies and private companies. Also served as jury in many Data Science and Big Data challenges, as editor of several journals and has advised many PhD students.
+<p>We are excited to announce another keynote speaker soon. Stay tuned for updates!</p>
+  </div>
+</div>

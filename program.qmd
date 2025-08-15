@@ -22,10 +22,9 @@ Social Networks in their research.
 Borgatti, S. P., Everett, M. G., Johnson, J. C. & Agneessens, F. (2022).
 *Analyzing social networks using R*. Sage.
 
-Luke, D. A. (2015). *A user\'s guide to network analysis in R*. Cham:
-Springer.
+Rawling, C., Smith, J.A., Moody, J. & McFarland, D. (2023). *Network Analysis: Integrating Social Network Theory, Method, and Application with R*. Cambridge University Press.
 
-Scott, J. (2000). *Social Network Analysis: A Handbook*. Sage.
+Scott, J. (2017). *Social Network Analysis: A Handbook*. Sage.
 
 ## Language
 
@@ -34,15 +33,15 @@ participants are proficient in Spanish.
 
 ## Course leaders:
 
-Dr Alejandro Espinosa-Rada (Social Networks Lab., ETH Zürich)
+Dr Alejandro Espinosa-Rada (Institute of Sociology, Pontifical Catholic University of Chile)
 
 Dr Diego Palacios (Society and Health Research Center, Universidad
 Mayor)
 
-Dr Francisca Ortiz Ruiz (Millennium Institute for Care Research -
-MICARE)
+Dr Francisca Ortiz Ruiz (Center for Economics and Social Policies, Universidad
+Mayor)
 
-Dr George Vega Yon (The University of Utah)
+Dr George Vega Yon (Division of Epidemiology, The University of Utah)
 
 ## Preliminary Program (tentative)
 
