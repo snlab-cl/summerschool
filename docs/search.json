@@ -63,6 +63,34 @@
     "text": "Course objectives\nBy the end of the week, participants would be able to design social network research, collect network data from classical to digital information, describe and visualise networks, and perform statistical models using social networks (e.g., ERGM and RSIENA). They will also have an overview of the most relevant topics about social networks. During the week, participants would have lectures and practical experience in using the R software and engage in practical experience through group projects.\nThe course will:\n\nIntroduce the idea of social network research.\nExplain how to collect, describe and visualise networks.\nExplain how to model social networks.\nProvide hands-on training to use R to investigate social networks."
   },
   {
+    "objectID": "index.html#timeline",
+    "href": "index.html#timeline",
+    "title": "2nd Chilean Summer School about Social Network Research – January 2026",
+    "section": "Timeline",
+    "text": "Timeline\n5th October 2025: Deadline submission applications\n10th November 2025: Notifications\n8th December - 19th December 2025: Registration\n12-16 January 2026: Summer School"
+  },
+  {
+    "objectID": "index.html#participation-fee",
+    "href": "index.html#participation-fee",
+    "title": "2nd Chilean Summer School about Social Network Research – January 2026",
+    "section": "Participation fee",
+    "text": "Participation fee\nEarly registration (until 19 December 2025): Flat rate of CLP 250,000 per person (approx. USD 260)\nLate registration: Flat rate of CLP 350,000 per person (approx. USD 360)"
+  },
+  {
+    "objectID": "index.html#application",
+    "href": "index.html#application",
+    "title": "2nd Chilean Summer School about Social Network Research – January 2026",
+    "section": "Application",
+    "text": "Application\nTo apply, please send a motivation letter (stating your research background, research interests, and reasons to learn about network methods) and a short CV to chisocnet@gmail.com (by 5th October 2025)."
+  },
+  {
+    "objectID": "index.html#location",
+    "href": "index.html#location",
+    "title": "2nd Chilean Summer School about Social Network Research – January 2026",
+    "section": "Location",
+    "text": "Location\nInstitute of Sociology, Pontifical Catholic University of Chile. Avenida Vicuña Mackenna 4860, Macul, Santiago"
+  },
+  {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "2nd Chilean Summer School about Social Network Research – January 2026",
@@ -201,33 +229,5 @@
     "title": "Keynote Speakers",
     "section": "",
     "text": "Prof. Pavel Krivitsky\n\n\nSenior Lecturer in Statistics, University of New South Wales, Sydney, Australia\n\n\nProf. Krivitsky is a Senior Lecturer in Statistics at the University of New South Wales, Sydney. Previously, he served as a Lecturer in Statistics at the School of Mathematics and Applied Statistics and the National Institute for Applied Statistics Research Australia (NIASRA), a Research Associate at Pennsylvania State University, and a Visiting Research Associate at the Carnegie Mellon University Heinz College.\n\n\nHis research focuses on statistical modeling of social network data and processes, with applications in epidemiology, the social sciences, and defense. He is particularly interested in analyzing networks that are unusual, indirectly observed, or sampled in complex ways. With a strong emphasis on computation, Prof. Krivitsky develops and maintains several widely used R packages on CRAN, including ergm, latentnet, and ergm.multi.\n\n\n\n\n\n\n\n\n\nProf. Esteban Moro\n\n\nProfessor, Network Science Institute, Northeastern University; Director, Social Urban Networks (SUNLab) Group\n\n\nProf. Moro is a Professor at the Network Science Institute at Northeastern University and Director of the Social Urban Networks (SUNLab) research group. Previously, he was an Associate Professor at Universidad Carlos III de Madrid (UC3M), a Researcher and Visiting Professor at the MIT Media Lab, and a Researcher at the University of Oxford.\n\n\nA native of Salamanca, Spain, he holds a PhD in Physics and is also an Affiliate Researcher at the MIT Media Lab. Prof. Moro has published extensively, led numerous projects funded by government agencies and private companies, and served as a jury member for major Data Science and Big Data competitions. He has also been an editor for several journals and has supervised many PhD students.\n\n\n\n\n\n\n\n\n\nKeynote Speaker TBC\n\n\nTo Be Confirmed\n\n\nWe are excited to announce another keynote speaker soon. Stay tuned for updates!"
-  },
-  {
-    "objectID": "index.html#timeline",
-    "href": "index.html#timeline",
-    "title": "2nd Chilean Summer School about Social Network Research – January 2026",
-    "section": "Timeline",
-    "text": "Timeline\n5th October 2025: Deadline submission applications\n10th November 2025: Notifications\n8th December - 19th December 2025: Registration\n12-16 January 2026: Summer School"
-  },
-  {
-    "objectID": "index.html#participation-fee",
-    "href": "index.html#participation-fee",
-    "title": "2nd Chilean Summer School about Social Network Research – January 2026",
-    "section": "Participation fee",
-    "text": "Participation fee\nEarly registration (until 19 December 2025): Flat rate of CLP 250,000 per person (approx. USD 260)\nLate registration: Flat rate of CLP 350,000 per person (approx. USD 360)"
-  },
-  {
-    "objectID": "index.html#application",
-    "href": "index.html#application",
-    "title": "2nd Chilean Summer School about Social Network Research – January 2026",
-    "section": "Application",
-    "text": "Application\nTo apply, please send a motivation letter (stating your research background, research interests, and reasons to learn about network methods) and a short CV to chisocnet@gmail.com (by 5th October 2025)."
-  },
-  {
-    "objectID": "index.html#location",
-    "href": "index.html#location",
-    "title": "2nd Chilean Summer School about Social Network Research – January 2026",
-    "section": "Location",
-    "text": "Location\nInstitute of Sociology, Pontifical Catholic University of Chile. Avenida Vicuña Mackenna 4860, Macul, Santiago"
   }
 ]
