@@ -48,9 +48,14 @@ Dr George Vega Yon (Division of Epidemiology, The University of Utah)
 ```{r}
 #| label: program
 #| echo: false
-knitr::kable(
-  data.table::fread("program.csv")
-  )
+x <- data.table::fread("program.csv")
+
+x[] <- lapply(x, function(col) {
+  if (is.character(col)) iconv(col, from = "", to = "UTF-8") else col
+})
+
+knitr::kable(x)
+
 ```
 
 *\*Summer school registration will be at 8.30*
