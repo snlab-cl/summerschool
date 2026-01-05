@@ -43,7 +43,7 @@ Mayor)
 
 Dr George Vega Yon (Division of Epidemiology, The University of Utah)
 
-## Preliminary Program (tentative)
+## Program
 
 ```{r}
 #| label: program
