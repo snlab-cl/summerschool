@@ -29,8 +29,8 @@ output:
 <p>Prof. Moro is a Professor at the Network Science Institute at Northeastern University and Director of the Social Urban Networks (SUNLab) research group. Previously, he was an Associate Professor at Universidad Carlos III de Madrid (UC3M), a Researcher and Visiting Professor at the MIT Media Lab, and a Researcher at the University of Oxford.</p> <p>A native of Salamanca, Spain, he holds a PhD in Physics and is also an Affiliate Researcher at the MIT Media Lab. Prof. Moro has published extensively, led numerous projects funded by government agencies and private companies, and served as a jury member for major Data Science and Big Data competitions. He has also been an editor for several journals and has supervised many PhD students.</p> </div> </div>
 
 
-<div class="keynote-card"> <div class="keynote-image"> <img src="img/blank.jpg" /> </div> <div class="keynote-content"> <div class="keynote-title">Keynote Speaker TBC</div><div class="keynote-position">To Be Confirmed</div>
+<!-- <div class="keynote-card"> <div class="keynote-image"> <img src="img/blank.jpg" /> </div> <div class="keynote-content"> <div class="keynote-title">Keynote Speaker TBC</div><div class="keynote-position">To Be Confirmed</div> -->
 
-<p>We are excited to announce another keynote speaker soon. Stay tuned for updates!</p>
+<!-- <p>We are excited to announce another keynote speaker soon. Stay tuned for updates!</p> -->
   </div>
 </div>
